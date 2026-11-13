@@ -1,6 +1,11 @@
-streamlit
+PySide6
 openai
+edge-tts
+pygame
+sounddevice
+scipy
+numpy
+faster-whisper
 ddgs
 requests
 beautifulsoup4
-python-dotenv
