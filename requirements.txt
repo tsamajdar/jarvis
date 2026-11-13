@@ -1,0 +1,6 @@
+streamlit
+openai
+ddgs
+requests
+beautifulsoup4
+python-dotenv
